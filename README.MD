@@ -1,1 +1,0 @@
-https://github.com/netebla/posmotri-v-okno-ad
